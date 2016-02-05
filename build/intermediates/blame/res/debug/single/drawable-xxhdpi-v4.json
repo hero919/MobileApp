@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/zeqingzhang/Desktop/code2/ticTacToev6/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/x_blue.png",
+        "source": "/Users/zeqingzhang/Desktop/code2/ticTacToev6/src/main/res/drawable-xxhdpi/x_blue.png"
+    },
+    {
+        "merged": "/Users/zeqingzhang/Desktop/code2/ticTacToev6/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sandy_beach.jpg",
+        "source": "/Users/zeqingzhang/Desktop/code2/ticTacToev6/src/main/res/drawable-xxhdpi/sandy_beach.jpg"
+    },
+    {
+        "merged": "/Users/zeqingzhang/Desktop/code2/ticTacToev6/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/home.png",
+        "source": "/Users/zeqingzhang/Desktop/code2/ticTacToev6/src/main/res/drawable-xxhdpi/home.png"
+    },
+    {
+        "merged": "/Users/zeqingzhang/Desktop/code2/ticTacToev6/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/restart.png",
+        "source": "/Users/zeqingzhang/Desktop/code2/ticTacToev6/src/main/res/drawable-xxhdpi/restart.png"
+    },
+    {
+        "merged": "/Users/zeqingzhang/Desktop/code2/ticTacToev6/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/o_red.png",
+        "source": "/Users/zeqingzhang/Desktop/code2/ticTacToev6/src/main/res/drawable-xxhdpi/o_red.png"
+    }
+]
